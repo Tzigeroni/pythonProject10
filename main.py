@@ -47,11 +47,11 @@ while True:
         print("Please choose a valid operator")
 
 
-Check check Test test
-Tes Tes Test 2
+#Check check Test test
+#Tes Tes Test 2
 
 
-Dolev Dolev Dolev
+#Dolev Dolev Dolev
 
 
 
